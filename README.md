@@ -1,4 +1,3 @@
-git clone https://huggingface.co/spaces/nneka/CryptocurrencyQASystem
 # **Question Answering System using Gradio's Lower-Level API**
 
 ## Overview
