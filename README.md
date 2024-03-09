@@ -40,7 +40,7 @@ The question answering system using Gradio's lower-level API provides a simple a
 
 This screenshot demonstrates the functionality of the question answering system on the Gradio website, showcasing how the system processes questions and provides answers.
 
-![Screenshot 1](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo1.png)
+![Screenshot 1](Gradiositescreenshots/crypo1.png)
 ![Screenshot 2](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo2.png)
 ![Screenshot 3](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo3.png)
 ![Screenshot 4](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo4.png)
