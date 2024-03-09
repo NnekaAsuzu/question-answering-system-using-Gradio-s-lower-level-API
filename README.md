@@ -33,3 +33,21 @@ To run the question answering system locally, follow these steps:
 ## Conclusion
 
 The question answering system using Gradio's lower-level API provides a simple and user-friendly interface for interacting with the deepset/roberta-base-squad2 model. This system can be further enhanced with additional features and improvements.
+
+
+
+### Gradio Website Screenshot
+
+This screenshot demonstrates the functionality of the question answering system on the Gradio website, showcasing how the system processes questions and provides answers.
+
+
+![Screenshot 1](crypo1.png)
+![Screenshot 2](crypo2.png)
+![Screenshot 3](crypo3.png)
+![Screenshot 4](crypo4.png)
+![Screenshot 5](crypo5.png)
+![Screenshot 6](crypo6.png)
+![Screenshot 7](crypo7.png)
+![Screenshot 8](crypo8.png)
+![Screenshot 9](crypo9.png)
+![Screenshot 10](crypo10.png)
