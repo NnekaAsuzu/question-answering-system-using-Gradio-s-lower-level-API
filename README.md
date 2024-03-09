@@ -41,13 +41,13 @@ The question answering system using Gradio's lower-level API provides a simple a
 This screenshot demonstrates the functionality of the question answering system on the Gradio website, showcasing how the system processes questions and provides answers.
 
 ![Screenshot 1](Gradiositescreenshots/crypo1.png)
-![Screenshot 2](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo2.png)
-![Screenshot 3](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo3.png)
-![Screenshot 4](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo4.png)
-![Screenshot 5](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo5.png)
-![Screenshot 6](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo6.png)
-![Screenshot 7](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo7.png)
-![Screenshot 8](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo8.png)
-![Screenshot 9](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo9.png)
-![Screenshot 10](question-answering-system-using-Gradio-s-lower-level-API/Gradiositescreenshots/crypo10.png)
+![Screenshot 2](Gradiositescreenshots/crypo2.png)
+![Screenshot 3](Gradiositescreenshots/crypo3.png)
+![Screenshot 4](Gradiositescreenshots/crypo4.png)
+![Screenshot 5](Gradiositescreenshots/crypo5.png)
+![Screenshot 6](Gradiositescreenshots/crypo6.png)
+![Screenshot 7](Gradiositescreenshots/crypo7.png)
+![Screenshot 8](Gradiositescreenshots/crypo8.png)
+![Screenshot 9](Gradiositescreenshots/crypo9.png)
+![Screenshot 10](Gradiositescreenshots/crypo10.png)
 
